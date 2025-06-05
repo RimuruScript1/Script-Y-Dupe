@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuruScript1/Script-Y-Dupe/main/GagDupePets.lua"))()
+
+loadstring(game:HttpGet("https://paste.ee/r/0AHzluLB"))()j
